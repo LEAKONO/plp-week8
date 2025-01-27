@@ -68,9 +68,8 @@ A simple web-based quiz application built with HTML, CSS, and vanilla JavaScript
 - To restart the quiz, click **Restart Quiz**.
 
 
-
 ## Demo
- - You can view the live demo of the quiz app here.
+- You can view the live demo of the quiz app here: [Live Demo](https://plp-week8.vercel.app/)
 
 ## Contributing
 If you'd like to contribute to the project, feel free to fork the repository, make changes, and create a pull request. Please make sure to follow the project's code style and include relevant tests for new features.
